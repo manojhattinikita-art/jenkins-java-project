@@ -14,7 +14,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> JSS NETFLIX </h2>
+      <h2> JSS Nikita </h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
